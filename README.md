@@ -22,7 +22,7 @@ Welcome to the repository that holds the audio recordings and my notes from Swam
 
    This folder contains the following 14 recordings in mp3 format, which you can download and listen to 🤗:
 
-   1. [**Pursushaarhta**](./Audio/01-Pursushaarhta.mp3)
+   1. [**Purushaartha**](./Audio/01-Purushaartha.mp3)
    2. [**Shastram**](./Audio/02-Shastram.mp3)
    3. [**Varna Dharma**](./Audio/03-Varna_Dharma.mp3)
    4. [**Ashrama Dharma**](./Audio/04-Ashrama_Dharma.mp3)
