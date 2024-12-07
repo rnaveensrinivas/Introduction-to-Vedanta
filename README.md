@@ -40,7 +40,7 @@ Welcome to the repository that holds the audio recordings and my notes from Swam
 ### 2. **Summary Folder**
    This folder includes **my** summaries of each lecture, organized in the same sequence as the audio recordings. The summaries provide a concise and clear overview of the key teachings, discussions, and insights from each class. 
 
-   1. [**Pursushaarhta**](./Summary/01-Pursushaarhta.txt)
+   1. [**Purushaartha**](./Summary/01-Purushaartha.txt)
    2. [**Shastram**](./Summary/02-Shastram.txt)
    3. [**Varna Dharma**](./Summary/03-Varna_Dharma.txt)
    4. [**Ashrama Dharma**](./Summary/04-Ashrama_Dharma.txt)
